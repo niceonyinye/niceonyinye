@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niceonyinye
 - 👀 I’m interested in ...tech and coding
-- 🌱 I’m currently learning ...Php and python
+- 🌱 I’m currently learning ...Php and nodes.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
